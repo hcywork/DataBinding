@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="themeColor">#249BE5</color>
+    <!--主题颜色-->
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="transparentColor">#00FFFFFF</color>
+    <color name="bottomNavigationCheckColor">#31B3EF</color>
+    <color name="bottomNavigationColor">#727171</color>
+    <color name="popupwindowColor">#EBEBEB</color>
+    <color name="popupwindowtextColor">#666666</color>
+    <color name="itemTextBlack">#333333</color>
+    <color name="itemTextGray">#999999</color>
+    <color name="buttonYellow">#FFAB31</color>
+    <color name="buttonGreen">#48D2A0</color>
+
+    <color name="buttonRed">#FF3B30</color>
+    <color name="buttonGrey">#C9CACB</color>
+    <!--渐变开始的颜色和结束的颜色-->
+    <color name="startColor">#00D2FF</color>
+    <color name="endColor">#3A7BD5</color>
+
+</resources>

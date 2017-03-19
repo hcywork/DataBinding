@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 自定义属性：src和text -->
+    <declare-styleable name="commonViewItem_attrs">
+        <attr name="iconLeftIsVisiable" format="boolean" />
+        <attr name="rightIsVisiable" format="boolean" />
+        <attr name="iconSrcRight" format="reference" />
+        <attr name="text_left" format="string" />
+        <attr name="text_right" format="string" />
+        <attr name="textColorLeft" format="color" />
+    </declare-styleable>
+</resources>
