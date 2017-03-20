@@ -31,5 +31,10 @@
         bind:text_right="瞎扯淡"
         bind:text_left="@{user.userName}"
         />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@{user.userName}"
+        />
 </LinearLayout>
 </layout>

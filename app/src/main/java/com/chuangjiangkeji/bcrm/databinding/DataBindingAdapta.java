@@ -9,8 +9,11 @@ import android.widget.TextView;
 
 public class DataBindingAdapta {
     @BindingAdapter({"bind:text_left"})
-    public static void entriefgs(CommonViewItem operator, String array, String array2) {
+    public static void setText_left(CommonViewItem operator, String array) {
         operator.setText_left(array);
-        operator.setText_right(array2);
+    }
+    @BindingAdapter({"android:text"})
+    public static void setText(TextView textView, String array) {
+        textView.setText(array+"he");
     }
 }
